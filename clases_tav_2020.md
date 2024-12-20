@@ -46,3 +46,82 @@
 * Clase 34: https://drive.google.com/file/d/1sGG_hYsW4LfGbdFaJCFRk0qFNdpm5fQA/view
 * Clase 35: https://drive.google.com/file/d/1_iw42QRTUbXuv7uViEkZnopjwqn0NGEe/view
 * Clase 36: https://drive.google.com/file/d/1SQFtsGCgx_fKLKkbjn2eOP-YA58ec-tO/view
+
+# Clase a clase oficial de tav 2020
+
+Clase 01: Programa e introducción [Pulse para verLinks to an external site.]
+
+Clase 02: Definiciones, álgebra de eventos y axiomas de Probabilidad. [Pulse para verLinks to an external site.]
+
+Clase 03: Técnicas de conteo [Pulse para verLinks to an external site.]
+
+Clase 04: Probabilidad condicional, Independencia, Teorema de probabilidades totales y Teorema de Bayes. [Pulse para verLinks to an external site.]
+
+Clase 05: Ejercicios Capitulo 2. [Pulse para verLinks to an external site.]
+
+Clase 06: Variables aleatorias: LaTeX: p_X(x), LaTeX: f_X(x) y LaTeX: F_X(x) + R. [Pulse para verLinks to an external site.]
+
+Clase 07: Medidas descriptivas teóricas: media, mediana, moda, percentil, min, max y función generadora de momento. [Pulse para verLinks to an external site.]
+
+Clase 08: Medidas descriptivas teóricas: varianza, coeficiente de variación, rango, IQR, coeficiente de asimetría y kurtosis + R. [Pulse para verLinks to an external site.] - [Pulse para verLinks to an external site.]
+
+Clase 09: Ejercicios Capítulo 3 + R. [Pulse para verLinks to an external site.]
+
+------------------------------------------ I1 ------------------------------------------
+Clase 10: Distribución Normal + R. [Pulse para verLinks to an external site.]
+
+Clase 11: Distribución Log Normal + R. [Pulse para verLinks to an external site.]
+
+Clase 12: Distribución Bernoulli, Binomial y Geométrica + R. [Pulse para verLinks to an external site.]
+
+Clase 13: Distribución Binomial-Negativa y Poisson + R. [Pulse para verLinks to an external site.]
+
+Clase 14: Distribución Exponencial, Gamma y relación con Poisson + R. [Pulse para verLinks to an external site.]
+
+Clase 15: Ejercicios Modelos + R.[Pulse para verLinks to an external site.]
+
+Clase 16: Distribución Hipergeometrica, Beta, Weibull, Logistica, Log-Logistica, t-Student y Fisher + R. [Pulse para verLinks to an external site.] 
+
+Clase 17: Distribución conjunta, condicional, marginal (teorema de probabilidades totales) e Independencia. [Pulse para verLinks to an external site.]
+
+Clase 18: Distribución Normal Bivariada, 1er momento conjunto, covarianza, correlación, esperanza condicional y teoremas de esperanza iterada. [Pulse para verLinks to an external site.]
+
+------------------------------------------ I2 ------------------------------------------
+Clase 19: Transformación de una variable aleatoria + R. LaTeX: Y = g(X) [Pulse para verLinks to an external site.]
+
+Clase 20: Transformación de múltiples variables aleatorias.LaTeX: Z = g(X,Y), \;Z = g(X_1,\ldots,\,X_n) [Pulse para verLinks to an external site.]
+
+Clase 21: Suma Normales, Gamma y Poisson independientes, producto y cociente de Log-Normales independientes + R. [Pulse para verLinks to an external site.]
+
+Clase 22: Teorema del límite central, distribución del min y max + R. [Pulse para verLinks to an external site.]
+
+Clase 23: Momentos de funciones de variables aleatorias, Operador E(), Var() y Cov() sobre combinaciones lineales de variables aleatorias. Función generadora de una suma de variables aleatorias independientes y método delta. [Pulse para verLinks to an external site.]
+
+Clase 24: Ejercicios Capítulo 4-5. [Pulse para verLinks to an external site.]
+
+Clase 25: Estimación: definiciones y propiedades. Métodos de estimación: Momentos. + R. [Pulse para verLinks to an external site.]
+
+Clase 26: Métodos de estimación: Máxima Verosimilitud. + R. [Pulse para verLinks to an external site.]
+
+Clase 27: Propiedades asintóticas de los EMV + Ejercicios I3. [Pulse para verLinks to an external site.]
+
+------------------------------------------ I3 ------------------------------------------
+Clase 28: Distribuciones muestrales + Test de hipótesis. [Pulse para verLinks to an external site.]
+
+Clase 29: Valor-p + Ejercicios + R. [Pulse para verLinks to an external site.]
+
+Clase 30: Ejercicios + Potencia + R. [Pulse para verLinks to an external site.]
+
+Clase 31: Intervalo de Confianza y tamaño de muestras. [Pulse para verLinks to an external site.]
+
+Clase 32: Comparación de poblaciones Normal + Ejercicios + R [Pulse para verLinks to an external site.]
+
+Clase 33: Test de hipótesis e intervalos de confianza para comparación de poblaciones y QQ-plot. [Pulse para verLinks to an external site.]
+
+Clase 34: QQ-plot, Test de bondad de ajuste (ks.test y LaTeX: \chi^2) + R. [Pulse para verLinks to an external site.]
+
+Clase 35: Regresión lineal simple + R. [Pulse para verLinks to an external site.]
+
+Clase 36: Regresión lineal múltiple + R. [Pulse para verLinks to an external site.]
+
+------------------------------------------ I4 ------------------------------------------
