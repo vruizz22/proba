@@ -1,0 +1,81 @@
+EYP1113 - Clase a Clase
+
+Clase 01: Programa. Definiciones.
+
+Clase 02: Álgebra de eventos. Axiomas de probabilidad
+
+Lab 01: Introducción a R.
+
+Clase 03: Propiedades de probabilidad. Técnicas de Conteo.
+
+Lab 02: Base de Datos en R (importar, exportar y filtrar)
+
+Clase 04: Probabilidad Condicional e Independencia.
+
+Clase 05: Teorema de Probabilidades Totales y Teorema de Bayes.
+
+Lab 03: Medidas Descriptivas
+
+Clase 06: Variable aleatoria: fx, px y Fx.
+
+Clase 07: Medidas descriptivas teóricas.
+
+Clase 08: Consultas I1.
+
+Clase 09: Distribución Normal y Log-Normal
+
+Lab 04: Gráficos en R
+
+Clase 10: Distribuciones Binomial, Geométrica y Binomial Negativa
+
+Clase 11: Distribuciones Poisson y Exponencial.
+
+Lab 05: Calculo de probabilidades con R
+
+Clase 12: Distribución Gamma. Relación Gamma-Poisson. Distribución Hipergeométrica
+
+Clase 13: Distribuciones conjuntas, condicionales y marginales.
+
+Clase 14: Modelo Normal Bivariada. Esperanza Condicional.
+
+Clase 15: Teoremas de Esperanzas Iteradas y Mejor Predictor.
+
+Clase 16: Consultas I2.
+
+Clase 17: Transformación de una variable aleatoria: Y = g(X).
+
+Lab 06: Simulación y transformación de variables aleatorias
+
+Clase 18: Transformación de múltiples variables aleatorias: Z = g(X,Y).
+
+Clase 19: Distribución de suma, recta, producto y cociente de variables aleatorias independientes. 
+
+Lab 07: Teorema central del límite y valores extremos.
+
+Clase 20: Teorema central del límite. Distribución del mínimo y máximos
+
+Clase 21: Valor esperado de g(X1,...,Xn). Función generadora de momentos de suma de variables aleatorias in dependientes. Propiedades sobre una combinación lineal de los operadores E(), Var() y Cov().
+
+Lab 08: Estimación por método de momentos
+
+Clase 22: Método delta, estimación (definiciones y propiedades), estimación por método de momentos.
+
+Clase 23: Consulta I3.
+
+Clase 24: Estimación por método de máxima verosimilitud. Propiedades asintóticas de los EMV. Distribuciones muestrales.
+
+Lab 09: Estimación por método de máxima verosimilitud. Propiedades Asintóticas de los EMV.
+
+Clase 25: Test de hipótesis y valor-p.
+
+Clase 26: Potencia, IC, tamaños muestrales.
+
+Lab 10: Test de hipótesis
+
+Clase 27: Comparación de poblaciones (TH e IC)
+
+Clase 28: Test de bondad de ajuste KS y Chi-cuadrado, 
+
+Clase 29: Regresión Lineal Simple.
+
+Clase 30: Regresión Lineal Múltiple.
